@@ -1,0 +1,2 @@
+# MiniProgramEventBus
+小程序全局通信eventbus搭建
